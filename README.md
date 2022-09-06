@@ -1,5 +1,5 @@
 # Guess the Number
   
-> demo at: https://replit.com/@Spiderites/GuessTheNumber
+> demo at: [replit](https://replit.com/@Spiderites/GuessTheNumber?v=1)
 
 
